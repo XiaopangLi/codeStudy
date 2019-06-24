@@ -1,3 +1,7 @@
+//周五下午临时接到一个任务，要在下班前写一个小Java工具，完成模拟调用HTTP服务的要求。
+//之前没有接触过这方面，一通上网查资料，好在这方面资料挺多。而且只要求通过POST方法访问HTTP服务，最终通过HttpURLConnection类即完成了此功能。
+//代码来源：
+
 class MyHttpUrlConn {
     public static String cookieVal=""
 
